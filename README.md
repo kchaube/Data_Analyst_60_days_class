@@ -15,6 +15,8 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 8 | Lookups: VLOOKUP, INDEX + MATCH, XLOOKUP | [Practical Notes](Day%2008/Day08_Practical_Notes.pdf) · [Practice](Day%2008/Day08_Practice.xlsx) · [Solutions](Day%2008/Day08_Solutions.xlsx) · [Teaching Notes](Day%2008/Day08_Teaching_Notes.pdf) |
 | 9 | Data cleaning in Excel | [Practical Notes](Day%2009/Day09_Practical_Notes.pdf) · [Practice](Day%2009/Day09_Practice.xlsx) · [Solutions](Day%2009/Day09_Solutions.xlsx) · [Teaching Notes](Day%2009/Day09_Teaching_Notes.pdf) |
 | 10 | Pivot tables 1 | [Practical Notes](Day%2010/Day10_Practical_Notes.pdf) · [Practice](Day%2010/Day10_Practice.xlsx) · [Solutions](Day%2010/Day10_Solutions.xlsx) · [Teaching Notes](Day%2010/Day10_Teaching_Notes.pdf) |
+| 11 | Pivot tables 2 | [Practice](Day%2011/Day11_Practice.xlsx) · [Solutions](Day%2011/Day11_Solutions.xlsx) · [Teaching Notes](Day%2011/Day11_Teaching_Notes.pdf) |
+| 60 | The Complete Course | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
 
