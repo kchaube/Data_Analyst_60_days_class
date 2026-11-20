@@ -21,10 +21,10 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 15 | Statistics for data analysts | [Practical Notes](Day%2015/Day15_Practical_Notes.pdf) · [Practice](Day%2015/Day15_Practice.xlsx) · [Solutions](Day%2015/Day15_Solutions.xlsx) · [Teaching Notes](Day%2015/Day15_Teaching_Notes.pdf) |
 | 16 | SQL basics | [Practical Notes](Day%2016/Day16_Practical_Notes.pdf) · [SQL Practice](Day%2016/Day16_SQL_Practice.xlsx) · [SQL Solutions](Day%2016/Day16_SQL_Solutions.xlsx) · [Teaching Notes](Day%2016/Day16_Teaching_Notes.pdf) |
 | 17 | Filtering with WHERE | [Practical Notes](Day%2017/Day17_Practical_Notes.pdf) · [SQL Practice](Day%2017/Day17_SQL_Practice.xlsx) · [Teaching Notes](Day%2017/Day17_Teaching_Notes.pdf) |
-| 18 | ORDER BY, top N and CASE | [Practical Notes](Day%2018/Day18_Practical_Notes.pdf) · [SQL Practice](Day%2018/Day18_SQL_Practice.xlsx) · [SQL Solutions](Day%2018/Day18_SQL_Solutions.xlsx) · [Teaching Notes](Day%2018/Day18_Teaching_Notes.pdf) |
-| 19 | Aggregates, GROUP BY and | [Practical Notes](Day%2019/Day19_Practical_Notes.pdf) · [SQL Practice](Day%2019/Day19_SQL_Practice.xlsx) · [SQL Solutions](Day%2019/Day19_SQL_Solutions.xlsx) · [Teaching Notes](Day%2019/Day19_Teaching_Notes.pdf) |
+| 18 | ORDER BY, top N and CASE WHEN | [Practical Notes](Day%2018/Day18_Practical_Notes.pdf) · [SQL Practice](Day%2018/Day18_SQL_Practice.xlsx) · [SQL Solutions](Day%2018/Day18_SQL_Solutions.xlsx) · [Teaching Notes](Day%2018/Day18_Teaching_Notes.pdf) |
+| 19 | Aggregates, GROUP BY and HAVING | [Practical Notes](Day%2019/Day19_Practical_Notes.pdf) · [SQL Practice](Day%2019/Day19_SQL_Practice.xlsx) · [SQL Solutions](Day%2019/Day19_SQL_Solutions.xlsx) · [Teaching Notes](Day%2019/Day19_Teaching_Notes.pdf) |
 | 20 | JOINs (INNER, LEFT) | [Practical Notes](Day%2020/Day20_Practical_Notes.pdf) · [SQL Practice](Day%2020/Day20_SQL_Practice.xlsx) · [SQL Solutions](Day%2020/Day20_SQL_Solutions.xlsx) · [Teaching Notes](Day%2020/Day20_Teaching_Notes.pdf) |
-| 60 | The Complete Course | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
+| 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
 
