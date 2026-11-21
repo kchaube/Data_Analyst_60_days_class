@@ -33,7 +33,7 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 29 | Power BI, your first report | [PowerBI Solutions](Day%2029/Day29_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2029/Day29_PowerBI_Tasks.xlsx) · [Teaching Notes](Day%2029/Day29_Teaching_Notes.pdf) |
 | 30 | Power Query 1, cleaning data | [PowerBI Solutions](Day%2030/Day30_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2030/Day30_PowerBI_Tasks.xlsx) · [Teaching Notes](Day%2030/Day30_Teaching_Notes.pdf) |
 | 31 | Power Query 2, combine and reshape | [Practical Notes](Day%2031/Day31_Practical_Notes.pdf) · [Teaching Notes](Day%2031/Day31_Teaching_Notes.pdf) |
-| 32 |  | [PowerBI Solutions](Day%2032/Day32_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2032/Day32_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2032/Day32_Practical_Notes.pdf) |
+| 32 | Data modelling: build the UrbanKart star schema | [PowerBI Solutions](Day%2032/Day32_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2032/Day32_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2032/Day32_Practical_Notes.pdf) |
 | 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
