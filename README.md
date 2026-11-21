@@ -43,6 +43,8 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 39 | Dashboard Design & Themes | [PowerBI Solutions](Day%2039/Day39_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2039/Day39_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2039/Day39_Practical_Notes.pdf) · [Teaching Notes](Day%2039/Day39_Teaching_Notes.pdf) |
 | 40 | Power BI Service & Security | [PowerBI Solutions](Day%2040/Day40_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2040/Day40_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2040/Day40_Practical_Notes.pdf) · [Teaching Notes](Day%2040/Day40_Teaching_Notes.pdf) |
 | 41 | Running a Power BI Project | [PowerBI Solutions](Day%2041/Day41_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2041/Day41_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2041/Day41_Practical_Notes.pdf) · [Teaching Notes](Day%2041/Day41_Teaching_Notes.pdf) |
+| 42 | Power BI Interview Question Bank | [PowerBI Tasks](Day%2042/Day42_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2042/Day42_Practical_Notes.pdf) · [Teaching Notes](Day%2042/Day42_Teaching_Notes.pdf) |
+| 43 | HR Attrition Analytics (Capstone 1) | [Practical Notes](Day%2043/Day43_Practical_Notes.pdf) · [SQL Practice](Day%2043/Day43_SQL_Practice.xlsx) · [SQL Solutions](Day%2043/Day43_SQL_Solutions.xlsx) · [Teaching Notes](Day%2043/Day43_Teaching_Notes.pdf) |
 | 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
