@@ -38,6 +38,8 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 34 | DAX 1, measures | [PowerBI Solutions](Day%2034/Day34_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2034/Day34_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2034/Day34_Practical_Notes.pdf) · [Teaching Notes](Day%2034/Day34_Teaching_Notes.pdf) |
 | 35 | DAX 2, CALCULATE | [PowerBI Solutions](Day%2035/Day35_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2035/Day35_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2035/Day35_Practical_Notes.pdf) · [Teaching Notes](Day%2035/Day35_Teaching_Notes.pdf) |
 | 36 | DAX 3, Iterators | [PowerBI Solutions](Day%2036/Day36_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2036/Day36_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2036/Day36_Practical_Notes.pdf) · [Teaching Notes](Day%2036/Day36_Teaching_Notes.pdf) |
+| 37 | DAX 4, Time Intelligence | [PowerBI Solutions](Day%2037/Day37_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2037/Day37_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2037/Day37_Practical_Notes.pdf) · [Teaching Notes](Day%2037/Day37_Teaching_Notes.pdf) |
+| 38 | Interactivity in Power BI | [PowerBI Solutions](Day%2038/Day38_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2038/Day38_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2038/Day38_Practical_Notes.pdf) · [Teaching Notes](Day%2038/Day38_Teaching_Notes.pdf) |
 | 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
