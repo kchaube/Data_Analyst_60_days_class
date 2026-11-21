@@ -1,0 +1,61 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P001,Wireless Earbuds,Electronics,Audio,1499,2499
+P002,Bluetooth Speaker,Electronics,Audio,1299,2199
+P003,Smartwatch,Electronics,Wearables,2499,3999
+P004,Power Bank 10000mAh,Electronics,Accessories,699,1199
+P005,USB-C Charger 33W,Electronics,Accessories,499,899
+P006,Laptop Backpack,Electronics,Accessories,899,1499
+P007,Wireless Mouse,Electronics,Computer Accessories,399,699
+P008,Mechanical Keyboard,Electronics,Computer Accessories,1899,2999
+P009,27-inch Monitor,Electronics,Computer Accessories,9999,13999
+P010,Webcam HD,Electronics,Computer Accessories,1199,1899
+P011,Smartphone Stand,Electronics,Accessories,149,349
+P012,Noise Cancelling Headphones,Electronics,Audio,3999,5999
+P013,Cotton Kurta,Fashion,Ethnic Wear,499,999
+P014,Denim Jeans,Fashion,Bottom Wear,899,1599
+P015,Running Shoes,Fashion,Footwear,1499,2499
+P016,Casual Sneakers,Fashion,Footwear,1199,1999
+P017,Silk Saree,Fashion,Ethnic Wear,1999,3499
+P018,Men Polo T-shirt,Fashion,Top Wear,349,699
+P019,Women Handbag,Fashion,Accessories,899,1699
+P020,Leather Wallet,Fashion,Accessories,299,599
+P021,Sunglasses,Fashion,Accessories,399,899
+P022,Winter Jacket,Fashion,Top Wear,1599,2799
+P023,Formal Shirt,Fashion,Top Wear,599,1199
+P024,Ethnic Dupatta,Fashion,Ethnic Wear,249,549
+P025,Non-stick Cookware Set,Home & Kitchen,Cookware,1499,2499
+P026,Mixer Grinder 750W,Home & Kitchen,Appliances,2299,3499
+P027,Bedsheet Double,Home & Kitchen,Furnishing,599,1099
+P028,Water Bottle Steel 1L,Home & Kitchen,Kitchen Storage,249,499
+P029,Air Fryer 4L,Home & Kitchen,Appliances,3499,5499
+P030,Wall Clock,Home & Kitchen,Decor,299,649
+P031,LED Desk Lamp,Home & Kitchen,Decor,499,899
+P032,Storage Containers Set,Home & Kitchen,Kitchen Storage,399,799
+P033,Electric Kettle,Home & Kitchen,Appliances,699,1199
+P034,Cushion Covers Set,Home & Kitchen,Furnishing,299,599
+P035,Dinner Set 24pc,Home & Kitchen,Cookware,1299,2299
+P036,Vacuum Cleaner,Home & Kitchen,Appliances,3999,6499
+P037,Face Wash 100ml,Beauty,Skin Care,129,249
+P038,Sunscreen SPF50,Beauty,Skin Care,249,449
+P039,Hair Dryer,Beauty,Hair Care,899,1499
+P040,Perfume 100ml,Beauty,Fragrance,699,1299
+P041,Lipstick Matte,Beauty,Makeup,199,399
+P042,Beard Trimmer,Beauty,Grooming,899,1599
+P043,Face Serum,Beauty,Skin Care,349,649
+P044,Shampoo 340ml,Beauty,Hair Care,199,379
+P045,Moisturiser 200ml,Beauty,Skin Care,229,429
+P046,Makeup Brush Set,Beauty,Makeup,299,599
+P047,Hair Straightener,Beauty,Hair Care,1199,1999
+P048,Kajal Pack of 2,Beauty,Makeup,99,199
+P049,Excel for Beginners (Book),Books & Stationery,Books,249,449
+P050,Notebook Pack of 5,Books & Stationery,Stationery,149,299
+P051,Gel Pens Pack of 10,Books & Stationery,Stationery,79,149
+P052,Office Planner 2026,Books & Stationery,Stationery,199,399
+P053,SQL Made Simple (Book),Books & Stationery,Books,299,499
+P054,Desk Organizer,Books & Stationery,Office,249,499
+P055,Sticky Notes Set,Books & Stationery,Stationery,59,129
+P056,Whiteboard Small,Books & Stationery,Office,399,699
+P057,Highlighters Pack of 6,Books & Stationery,Stationery,99,199
+P058,Novel Bestseller,Books & Stationery,Books,199,399
+P059,Calculator Scientific,Books & Stationery,Office,549,899
+P060,A4 Paper Ream,Books & Stationery,Stationery,249,399

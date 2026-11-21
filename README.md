@@ -15,25 +15,28 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 8 | Lookups: VLOOKUP, INDEX + MATCH, XLOOKUP | [Practical Notes](Day%2008/Day08_Practical_Notes.pdf) · [Practice](Day%2008/Day08_Practice.xlsx) · [Solutions](Day%2008/Day08_Solutions.xlsx) · [Teaching Notes](Day%2008/Day08_Teaching_Notes.pdf) |
 | 9 | Data cleaning in Excel | [Practical Notes](Day%2009/Day09_Practical_Notes.pdf) · [Practice](Day%2009/Day09_Practice.xlsx) · [Solutions](Day%2009/Day09_Solutions.xlsx) · [Teaching Notes](Day%2009/Day09_Teaching_Notes.pdf) |
 | 10 | Pivot tables 1 | [Practical Notes](Day%2010/Day10_Practical_Notes.pdf) · [Practice](Day%2010/Day10_Practice.xlsx) · [Solutions](Day%2010/Day10_Solutions.xlsx) · [Teaching Notes](Day%2010/Day10_Teaching_Notes.pdf) |
-| 11 | Pivot tables 2 | [Practice](Day%2011/Day11_Practice.xlsx) · [Solutions](Day%2011/Day11_Solutions.xlsx) · [Teaching Notes](Day%2011/Day11_Teaching_Notes.pdf) |
+| 11 | Pivot tables 2 | [Practical Notes](Day%2011/Day11_Practical_Notes.pdf) · [Practice](Day%2011/Day11_Practice.xlsx) · [Solutions](Day%2011/Day11_Solutions.xlsx) · [Teaching Notes](Day%2011/Day11_Teaching_Notes.pdf) |
+| 12 | Charts that tell the story | [Practical Notes](Day%2012/Day12_Practical_Notes.pdf) · [Practice](Day%2012/Day12_Practice.xlsx) · [Solutions](Day%2012/Day12_Solutions.xlsx) · [Teaching Notes](Day%2012/Day12_Teaching_Notes.pdf) |
 | 13 | Excel dashboard project | [Practical Notes](Day%2013/Day13_Practical_Notes.pdf) · [Practice](Day%2013/Day13_Practice.xlsx) · [Solutions](Day%2013/Day13_Solutions.xlsx) · [Teaching Notes](Day%2013/Day13_Teaching_Notes.pdf) |
 | 14 | Week 2 revision + Test 2 | [Revision Notes](Day%2014/Day14_Revision_Notes.pdf) · [Solutions](Day%2014/Day14_Solutions.xlsx) · [Test](Day%2014/Day14_Test.xlsx) · [Test2 Solutions](Day%2014/Day14_Test2_Solutions.pdf) |
 | 15 | Statistics for data analysts | [Practical Notes](Day%2015/Day15_Practical_Notes.pdf) · [Practice](Day%2015/Day15_Practice.xlsx) · [Solutions](Day%2015/Day15_Solutions.xlsx) · [Teaching Notes](Day%2015/Day15_Teaching_Notes.pdf) |
 | 16 | SQL basics | [Practical Notes](Day%2016/Day16_Practical_Notes.pdf) · [SQL Practice](Day%2016/Day16_SQL_Practice.xlsx) · [SQL Solutions](Day%2016/Day16_SQL_Solutions.xlsx) · [Teaching Notes](Day%2016/Day16_Teaching_Notes.pdf) |
-| 17 | Filtering with WHERE | [Practical Notes](Day%2017/Day17_Practical_Notes.pdf) · [SQL Practice](Day%2017/Day17_SQL_Practice.xlsx) · [Teaching Notes](Day%2017/Day17_Teaching_Notes.pdf) |
+| 17 | Filtering with WHERE | [Practical Notes](Day%2017/Day17_Practical_Notes.pdf) · [SQL Practice](Day%2017/Day17_SQL_Practice.xlsx) · [SQL Solutions](Day%2017/Day17_SQL_Solutions.xlsx) · [Teaching Notes](Day%2017/Day17_Teaching_Notes.pdf) |
 | 18 | ORDER BY, top N and CASE WHEN | [Practical Notes](Day%2018/Day18_Practical_Notes.pdf) · [SQL Practice](Day%2018/Day18_SQL_Practice.xlsx) · [SQL Solutions](Day%2018/Day18_SQL_Solutions.xlsx) · [Teaching Notes](Day%2018/Day18_Teaching_Notes.pdf) |
 | 19 | Aggregates, GROUP BY and HAVING | [Practical Notes](Day%2019/Day19_Practical_Notes.pdf) · [SQL Practice](Day%2019/Day19_SQL_Practice.xlsx) · [SQL Solutions](Day%2019/Day19_SQL_Solutions.xlsx) · [Teaching Notes](Day%2019/Day19_Teaching_Notes.pdf) |
 | 20 | JOINs (INNER, LEFT) | [Practical Notes](Day%2020/Day20_Practical_Notes.pdf) · [SQL Practice](Day%2020/Day20_SQL_Practice.xlsx) · [SQL Solutions](Day%2020/Day20_SQL_Solutions.xlsx) · [Teaching Notes](Day%2020/Day20_Teaching_Notes.pdf) |
+| 21 | Multi-table JOINs, self joins and UNION | [Practical Notes](Day%2021/Day21_Practical_Notes.pdf) · [SQL Practice](Day%2021/Day21_SQL_Practice.xlsx) · [SQL Solutions](Day%2021/Day21_SQL_Solutions.xlsx) · [Teaching Notes](Day%2021/Day21_Teaching_Notes.pdf) |
+| 22 | Subqueries and CTEs | [Practical Notes](Day%2022/Day22_Practical_Notes.pdf) · [SQL Practice](Day%2022/Day22_SQL_Practice.xlsx) · [SQL Solutions](Day%2022/Day22_SQL_Solutions.xlsx) · [Teaching Notes](Day%2022/Day22_Teaching_Notes.pdf) |
 | 23 | Date and text functions | [Practical Notes](Day%2023/Day23_Practical_Notes.pdf) · [SQL Practice](Day%2023/Day23_SQL_Practice.xlsx) · [SQL Solutions](Day%2023/Day23_SQL_Solutions.xlsx) · [Teaching Notes](Day%2023/Day23_Teaching_Notes.pdf) |
 | 24 | Window functions 1 (ranking) | [Practical Notes](Day%2024/Day24_Practical_Notes.pdf) · [SQL Practice](Day%2024/Day24_SQL_Practice.xlsx) · [SQL Solutions](Day%2024/Day24_SQL_Solutions.xlsx) · [Teaching Notes](Day%2024/Day24_Teaching_Notes.pdf) |
 | 25 | Window functions 2 (trends over time) | [Practical Notes](Day%2025/Day25_Practical_Notes.pdf) · [SQL Practice](Day%2025/Day25_SQL_Practice.xlsx) · [SQL Solutions](Day%2025/Day25_SQL_Solutions.xlsx) · [Teaching Notes](Day%2025/Day25_Teaching_Notes.pdf) |
 | 26 | SQL project — customer cohorts and RFM | [Practical Notes](Day%2026/Day26_Practical_Notes.pdf) · [SQL Practice](Day%2026/Day26_SQL_Practice.xlsx) · [SQL Solutions](Day%2026/Day26_SQL_Solutions.xlsx) · [Teaching Notes](Day%2026/Day26_Teaching_Notes.pdf) |
 | 27 | SQL interview questions | [Practical Notes](Day%2027/Day27_Practical_Notes.pdf) · [SQL Practice](Day%2027/Day27_SQL_Practice.xlsx) · [SQL Solutions](Day%2027/Day27_SQL_Solutions.xlsx) · [Teaching Notes](Day%2027/Day27_Teaching_Notes.pdf) |
 | 28 | SQL revision, views and indexes | [Practical Notes](Day%2028/Day28_Practical_Notes.pdf) · [SQL Practice](Day%2028/Day28_SQL_Practice.xlsx) · [SQL Solutions](Day%2028/Day28_SQL_Solutions.xlsx) · [Teaching Notes](Day%2028/Day28_Teaching_Notes.pdf) |
-| 29 | Power BI, your first report | [PowerBI Solutions](Day%2029/Day29_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2029/Day29_PowerBI_Tasks.xlsx) · [Teaching Notes](Day%2029/Day29_Teaching_Notes.pdf) |
-| 30 | Power Query 1, cleaning data | [PowerBI Solutions](Day%2030/Day30_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2030/Day30_PowerBI_Tasks.xlsx) · [Teaching Notes](Day%2030/Day30_Teaching_Notes.pdf) |
-| 31 | Power Query 2, combine and reshape | [Practical Notes](Day%2031/Day31_Practical_Notes.pdf) · [Teaching Notes](Day%2031/Day31_Teaching_Notes.pdf) |
-| 32 | Data modelling: build the UrbanKart star schema | [PowerBI Solutions](Day%2032/Day32_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2032/Day32_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2032/Day32_Practical_Notes.pdf) |
+| 29 | Power BI, your first report | [PowerBI Solutions](Day%2029/Day29_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2029/Day29_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2029/Day29_Practical_Notes.pdf) · [Teaching Notes](Day%2029/Day29_Teaching_Notes.pdf) |
+| 30 | Power Query 1, cleaning data | [PowerBI Solutions](Day%2030/Day30_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2030/Day30_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2030/Day30_Practical_Notes.pdf) · [Teaching Notes](Day%2030/Day30_Teaching_Notes.pdf) |
+| 31 | Power Query 2, combine and reshape | [PowerBI Solutions](Day%2031/Day31_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2031/Day31_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2031/Day31_Practical_Notes.pdf) · [Teaching Notes](Day%2031/Day31_Teaching_Notes.pdf) |
+| 32 | Data modelling: build the UrbanKart star schema | [PowerBI Solutions](Day%2032/Day32_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2032/Day32_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2032/Day32_Practical_Notes.pdf) · [Teaching Notes](Day%2032/Day32_Teaching_Notes.pdf) |
 | 33 | Visuals in depth | [PowerBI Solutions](Day%2033/Day33_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2033/Day33_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2033/Day33_Practical_Notes.pdf) · [Teaching Notes](Day%2033/Day33_Teaching_Notes.pdf) |
 | 34 | DAX 1, measures | [PowerBI Solutions](Day%2034/Day34_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2034/Day34_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2034/Day34_Practical_Notes.pdf) · [Teaching Notes](Day%2034/Day34_Teaching_Notes.pdf) |
 | 35 | DAX 2, CALCULATE | [PowerBI Solutions](Day%2035/Day35_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2035/Day35_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2035/Day35_Practical_Notes.pdf) · [Teaching Notes](Day%2035/Day35_Teaching_Notes.pdf) |
@@ -43,13 +46,13 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 39 | Dashboard Design & Themes | [PowerBI Solutions](Day%2039/Day39_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2039/Day39_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2039/Day39_Practical_Notes.pdf) · [Teaching Notes](Day%2039/Day39_Teaching_Notes.pdf) |
 | 40 | Power BI Service & Security | [PowerBI Solutions](Day%2040/Day40_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2040/Day40_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2040/Day40_Practical_Notes.pdf) · [Teaching Notes](Day%2040/Day40_Teaching_Notes.pdf) |
 | 41 | Running a Power BI Project | [PowerBI Solutions](Day%2041/Day41_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2041/Day41_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2041/Day41_Practical_Notes.pdf) · [Teaching Notes](Day%2041/Day41_Teaching_Notes.pdf) |
-| 42 | Power BI Interview Question Bank | [PowerBI Tasks](Day%2042/Day42_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2042/Day42_Practical_Notes.pdf) · [Teaching Notes](Day%2042/Day42_Teaching_Notes.pdf) |
+| 42 | Power BI Interview Question Bank | [PowerBI Solutions](Day%2042/Day42_PowerBI_Solutions.xlsx) · [PowerBI Tasks](Day%2042/Day42_PowerBI_Tasks.xlsx) · [Practical Notes](Day%2042/Day42_Practical_Notes.pdf) · [Teaching Notes](Day%2042/Day42_Teaching_Notes.pdf) |
 | 43 | HR Attrition Analytics (Capstone 1) | [Practical Notes](Day%2043/Day43_Practical_Notes.pdf) · [SQL Practice](Day%2043/Day43_SQL_Practice.xlsx) · [SQL Solutions](Day%2043/Day43_SQL_Solutions.xlsx) · [Teaching Notes](Day%2043/Day43_Teaching_Notes.pdf) |
 | 44 | Delivery & Returns Analytics (Capstone 2) | [Practical Notes](Day%2044/Day44_Practical_Notes.pdf) · [SQL Practice](Day%2044/Day44_SQL_Practice.xlsx) · [SQL Solutions](Day%2044/Day44_SQL_Solutions.xlsx) · [Teaching Notes](Day%2044/Day44_Teaching_Notes.pdf) |
 | 45 | Growth Analytics (Capstone 3) | [Practical Notes](Day%2045/Day45_Practical_Notes.pdf) · [SQL Practice](Day%2045/Day45_SQL_Practice.xlsx) · [SQL Solutions](Day%2045/Day45_SQL_Solutions.xlsx) · [Teaching Notes](Day%2045/Day45_Teaching_Notes.pdf) |
 | 46 | Python for Data Analysts | [Practical Notes](Day%2046/Day46_Practical_Notes.pdf) · [Python Practice](Day%2046/Day46_Python_Practice.ipynb) · [Python Solutions](Day%2046/Day46_Python_Solutions.ipynb) · [Teaching Notes](Day%2046/Day46_Teaching_Notes.pdf) |
-| 47 | Pandas for Data Analysis | [Practical Notes](Day%2047/Day47_Practical_Notes.pdf) · [Python Practice](Day%2047/Day47_Python_Practice.ipynb) · [Python Solutions](Day%2047/Day47_Python_Solutions.ipynb) · [Teaching Notes](Day%2047/Day47_Teaching_Notes.pdf) |
-| 48 | Charts and EDA in Python | [Practical Notes](Day%2048/Day48_Practical_Notes.pdf) · [Python Practice](Day%2048/Day48_Python_Practice.ipynb) · [Teaching Notes](Day%2048/Day48_Teaching_Notes.pdf) |
+| 47 | Pandas for Data Analysis | [Practical Notes](Day%2047/Day47_Practical_Notes.pdf) · [Python Practice](Day%2047/Day47_Python_Practice.ipynb) · [Python Solutions](Day%2047/Day47_Python_Solutions.ipynb) · [Teaching Notes](Day%2047/Day47_Teaching_Notes.pdf) · [UrbanKart customers](Day%2047/UrbanKart_customers.csv) · [UrbanKart orders](Day%2047/UrbanKart_orders.csv) · [UrbanKart products](Day%2047/UrbanKart_products.csv) · [UrbanKart returns](Day%2047/UrbanKart_returns.csv) |
+| 48 | Charts and EDA in Python | [Practical Notes](Day%2048/Day48_Practical_Notes.pdf) · [Python Practice](Day%2048/Day48_Python_Practice.ipynb) · [Python Solutions](Day%2048/Day48_Python_Solutions.ipynb) · [Teaching Notes](Day%2048/Day48_Teaching_Notes.pdf) · [UrbanKart orders](Day%2048/UrbanKart_orders.csv) · [UrbanKart products](Day%2048/UrbanKart_products.csv) |
 | 49 | Running a Python Data Project | [Practical Notes](Day%2049/Day49_Practical_Notes.pdf) · [Python Practice](Day%2049/Day49_Python_Practice.ipynb) · [Python Solutions](Day%2049/Day49_Python_Solutions.ipynb) · [Teaching Notes](Day%2049/Day49_Teaching_Notes.pdf) |
 | 50 | Data Storytelling | [Practical Notes](Day%2050/Day50_Practical_Notes.pdf) · [QuickBite Story Deck](Day%2050/Day50_QuickBite_Story_Deck.pdf) · [Storytelling Practice](Day%2050/Day50_Storytelling_Practice.xlsx) · [Storytelling Solutions](Day%2050/Day50_Storytelling_Solutions.xlsx) · [Teaching Notes](Day%2050/Day50_Teaching_Notes.pdf) |
 | 51 | Cases, Metrics and Guesstimates | [Cases Practice](Day%2051/Day51_Cases_Practice.xlsx) · [Cases Solutions](Day%2051/Day51_Cases_Solutions.xlsx) · [Practical Notes](Day%2051/Day51_Practical_Notes.pdf) · [Teaching Notes](Day%2051/Day51_Teaching_Notes.pdf) |
@@ -63,7 +66,20 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 59 | What to Learn Next | [Practical Notes](Day%2059/Day59_Practical_Notes.pdf) · [Python Practice](Day%2059/Day59_Python_Practice.ipynb) · [Python Solutions](Day%2059/Day59_Python_Solutions.ipynb) · [Teaching Notes](Day%2059/Day59_Teaching_Notes.pdf) |
 | 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
-> More classes are being added.
+
+## Rebuilt files
+
+These files were recreated in November 2026 from the same UrbanKart data, because the originals were not available. The topics and numbers match the course; the wording may differ slightly from the videos.
+
+- Day 11: Practical Notes
+- Day 12: all files (Teaching Notes, Practical Notes, Practice, Solutions)
+- Day 17: SQL Solutions
+- Day 21 and Day 22: all files
+- Day 29 and Day 30: Practical Notes
+- Day 31: Power BI Tasks and Solutions
+- Day 32: Teaching Notes
+- Day 42: Power BI Solutions
+- Day 47 and Day 48: UrbanKart CSV data files; Day 48: Python Solutions notebook
 
 ## How to use
 1. Watch the class video on the YouTube channel.
