@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+# Secrets and local settings
+.env
+*.key
+config_local.py
+# Large or private data
+data/raw/*.zip
+*.pbix.bak
+# OS files
+.DS_Store
+Thumbs.db

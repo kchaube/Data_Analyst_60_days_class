@@ -1,0 +1,29 @@
+GIT COMMANDS FOR ANALYSTS (Day 52)
+
+One-time setup
+  git config --global user.name "Priya Sharma"
+  git config --global user.email "priya.analyst@example.com"
+
+Start a project
+  git clone https://github.com/<username>/<repo>.git   copy a repo from GitHub to your laptop
+  git init                                               turn an existing folder into a repo
+
+Daily loop
+  git status                     what has changed?
+  git add README.md              stage one file
+  git add .                      stage everything (check .gitignore first!)
+  git commit -m "Add cleaning notebook"
+  git push                       upload commits to GitHub
+  git pull                       download changes from GitHub
+
+Looking back
+  git log --oneline              list of commits
+  git diff                       see unstaged changes
+
+Fixing mistakes
+  git restore file.csv           discard changes in a file
+  git restore --staged file.csv  unstage a file
+  git rm --cached secrets.env    stop tracking a file (then add it to .gitignore)
+
+Good commit messages: start with a verb, say what changed.
+  Add delivery-time analysis    Fix date parsing for DD-MM-YYYY    Update README findings
