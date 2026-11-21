@@ -26,6 +26,9 @@ Each class folder has the **teaching notes**, **practical notes**, **practice fi
 | 20 | JOINs (INNER, LEFT) | [Practical Notes](Day%2020/Day20_Practical_Notes.pdf) · [SQL Practice](Day%2020/Day20_SQL_Practice.xlsx) · [SQL Solutions](Day%2020/Day20_SQL_Solutions.xlsx) · [Teaching Notes](Day%2020/Day20_Teaching_Notes.pdf) |
 | 23 | Date and text functions | [Practical Notes](Day%2023/Day23_Practical_Notes.pdf) · [SQL Practice](Day%2023/Day23_SQL_Practice.xlsx) · [SQL Solutions](Day%2023/Day23_SQL_Solutions.xlsx) · [Teaching Notes](Day%2023/Day23_Teaching_Notes.pdf) |
 | 24 | Window functions 1 (ranking) | [Practical Notes](Day%2024/Day24_Practical_Notes.pdf) · [SQL Practice](Day%2024/Day24_SQL_Practice.xlsx) · [SQL Solutions](Day%2024/Day24_SQL_Solutions.xlsx) · [Teaching Notes](Day%2024/Day24_Teaching_Notes.pdf) |
+| 25 | Window functions 2 (trends over time) | [Practical Notes](Day%2025/Day25_Practical_Notes.pdf) · [SQL Practice](Day%2025/Day25_SQL_Practice.xlsx) · [SQL Solutions](Day%2025/Day25_SQL_Solutions.xlsx) · [Teaching Notes](Day%2025/Day25_Teaching_Notes.pdf) |
+| 26 | SQL project — customer cohorts and RFM | [Practical Notes](Day%2026/Day26_Practical_Notes.pdf) · [SQL Practice](Day%2026/Day26_SQL_Practice.xlsx) · [SQL Solutions](Day%2026/Day26_SQL_Solutions.xlsx) · [Teaching Notes](Day%2026/Day26_Teaching_Notes.pdf) |
+| 27 | SQL interview questions | [Practical Notes](Day%2027/Day27_Practical_Notes.pdf) · [SQL Practice](Day%2027/Day27_SQL_Practice.xlsx) · [SQL Solutions](Day%2027/Day27_SQL_Solutions.xlsx) · [Teaching Notes](Day%2027/Day27_Teaching_Notes.pdf) |
 | 60 | The Complete Course Review + Roadmap | [Final Practice](Day%2060/Day60_Final_Practice.xlsx) · [Final Solutions](Day%2060/Day60_Final_Solutions.xlsx) · [Practical Notes](Day%2060/Day60_Practical_Notes.pdf) · [Teaching Notes](Day%2060/Day60_Teaching_Notes.pdf) · [UrbanKart Database MySQL](Day%2060/UrbanKart_Database_MySQL.sql) |
 
 > More classes are being added.
